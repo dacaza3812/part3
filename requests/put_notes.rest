@@ -1,0 +1,11 @@
+PUT http://localhost:3000/api/notes/64972b7a36b47645e6ef72c0
+Content-Type: application/json
+
+{
+    "content": "ULTIMA NOTA",
+    "important": false
+}
+
+###
+DELETE http://localhost:3000/api/notes/64971ec7e2eb55ef69e044eb
+
